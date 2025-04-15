@@ -4,3 +4,5 @@ ipykernel
 networkx
 scipy
 ast
+matplotlib
+scikit-learn
