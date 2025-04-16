@@ -6,3 +6,4 @@ scipy
 ast
 matplotlib
 scikit-learn
+seaborn
