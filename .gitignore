@@ -1,3 +1,4 @@
 myenv/
 # Jupyter Notebook
 .ipynb_checkpoints
+data/normalized_augmented_train_1hop_allfeatures.csv
