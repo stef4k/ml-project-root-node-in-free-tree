@@ -4,3 +4,7 @@ myenv/
 data/normalized_augmented_train_1hop_allfeatures.csv
 *.pt
 *.joblib
+data/expanded_all_features_*
+data/expanded_test*
+data/expanded_train*
+data/expanded_with_networkx_*
